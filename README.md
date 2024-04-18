@@ -18,7 +18,7 @@ What about my tools you said ? Below, you will find it :
 
 <p> And More to come ! 🚀 <p/>
 
-Let's connect together :
+Let's connect :
 
 <p>
   <a href="https://www.linkedin.com/in/anne-damien-491327142"> 
