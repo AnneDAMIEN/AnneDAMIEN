@@ -13,6 +13,7 @@ What about my tools you said ? Below, you will find it :
 ⚡️ Node.js
 ⚡️ Express
 ⚡️ Git / GitHub
+⚡️ UX Design
 ⚡️ Figma 
 ⚡️ Canva
 
