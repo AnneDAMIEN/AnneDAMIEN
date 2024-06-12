@@ -12,6 +12,7 @@ What about my tools you said ? Below, you will find it :
 ⚡️ React
 ⚡️ Node.js
 ⚡️ Express
+⚡️ MySQL
 ⚡️ Git / GitHub
 ⚡️ UX Design
 ⚡️ Figma 
@@ -28,4 +29,4 @@ Let's connect :
 </p>
 
 ----------------------
-Last Update : 18/04/24
+Last Update : 12/06/24
