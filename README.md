@@ -1,7 +1,7 @@
 <p>Hello you, I'm Anne 🦊 <p/>
 
 <p>I am currently following a training course in Web & Web Mobile Development at Wild Code School. 👩🏼‍💻<p/>
-<p>My goal : working in UX field and, my dream would be to would in Video Games industry.</p>
+<p>My goal : working in UX field </p>
 
 What about my tools you said ? Below, you will find it : 
 
